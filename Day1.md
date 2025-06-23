@@ -1,4 +1,4 @@
-# DAY-01: LINUX AND GIT
+# DAY-01: LINUX AND SHELL SCRIPTING
 
 Goal: Command-line mastery, Git operations, GitHub workflows
 
