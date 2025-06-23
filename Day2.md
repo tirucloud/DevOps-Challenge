@@ -12,9 +12,9 @@
 
 Hands-on:
 
-Containerize a full-stack app
+- Containerize a full-stack app
 
-Use Docker Compose to run the app
+- Use Docker Compose to run the app
 
-Debug container failures
+- Debug container failures
 
