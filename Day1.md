@@ -133,5 +133,3 @@ done
 - [ ] Documented learnings in a Markdown file
 
 ---
-
-Would you like me to generate all these shell scripts for you to try directly, or do you want hints and try yourself first?
