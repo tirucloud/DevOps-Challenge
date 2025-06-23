@@ -1,4 +1,4 @@
-# LINUX AND GIT
+# DAY-01: LINUX AND GIT
 
 Goal: Command-line mastery, Git operations, GitHub workflows
 
@@ -12,10 +12,8 @@ Goal: Command-line mastery, Git operations, GitHub workflows
 
 Hands-on:
 
-Write Linux scripts (e.g., backup script, monitor disk usage)
+- Write Linux scripts (e.g., backup script, monitor disk usage)
 
-Create and manage a GitHub repo
+- Create and manage a GitHub repo
 
-Automate a workflow with GitHub Actions
-
-✅ Day 2: Docker + Docker Compose
+- Automate a workflow with GitHub Actions
