@@ -18,3 +18,9 @@ Hands-on:
 
 - Debug container failures
 
+
+### Add your user to the Docker group to enable running Docker without using sudo
+sudo usermod -aG docker $USER
+### Log out and log back in to apply the group changes.
+### Alternatively, run the following command to activate the new group membership without logging out.
+newgrp docker
