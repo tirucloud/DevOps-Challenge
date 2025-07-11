@@ -1,5 +1,5 @@
 
-# 🚀 DevOps, Kubernetes, Terraform & Docker – 40 Interview Questions with Answers
+# 🚀 DevOps, Kubernetes, Terraform & Docker – Interview Questions with Answers
 
 Sharpen your skills with these categorized multiple-choice questions. Each question comes with the correct answer and a short explanation.
 
