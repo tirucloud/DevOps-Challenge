@@ -13,6 +13,9 @@ Private ip ranges
 
 Port numbers
 
+Dns port number?
+
+What is DHCP
 Rdp
 
 Ssh
@@ -174,9 +177,7 @@ How can I move volume from one region to another region
 
 How many routing policy r there in route53
 
-Dns port number?
 
-What is DHCP
 
 
 Docker
