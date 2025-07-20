@@ -133,3 +133,26 @@ done
 - [ ] Documented learnings in a Markdown file
 
 ---
+
+
+echo "# abcd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tirucloud/abcd.git
+git push -u origin main
+
+## gti commands
+
+git init ---> it creates .git folder
+
+git status
+
+git add -A
+
+git commit -m "message"
+
+git branch -M main
+
+git pus
