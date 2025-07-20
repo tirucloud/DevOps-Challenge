@@ -136,14 +136,20 @@ done
 
 
 echo "# abcd" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/tirucloud/abcd.git
+
 git push -u origin main
 
-## gti commands
+## git commands
 
 git init ---> it creates .git folder
 
