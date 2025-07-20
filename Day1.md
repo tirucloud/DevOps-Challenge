@@ -136,6 +136,7 @@ done
 
 
 echo "# abcd" >> README.md
+## git commands
 
 git init
 
@@ -149,7 +150,7 @@ git remote add origin https://github.com/tirucloud/abcd.git
 
 git push -u origin main
 
-## git commands
+
 
 git init ---> it creates .git folder
 
